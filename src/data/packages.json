@@ -1,0 +1,343 @@
+[
+  {
+    "id": "tetebatu-waterfall-trek",
+    "slug": "tetebatu-waterfall-trek",
+    "name": "Tetebatu Waterfall Trek",
+    "duration": "1 Day",
+    "price": 350000,
+    "priceLabel": "IDR 350,000 / person (~$22 USD)",
+    "category": "nature",
+    "description": "Trek through the lush jungle trails of Tetebatu to discover two hidden waterfalls: Jeruk Manis and Ulem Ulem. The route follows a river upstream through tropical forest at the southern foot of Mount Rinjani, with natural swimming pools along the way.",
+    "itinerary": [
+      {
+        "order": 1,
+        "title": "Meet at Tetebatu village, briefing and light breakfast"
+      },
+      {
+        "order": 2,
+        "title": "Trek to Jeruk Manis waterfall (approx. 45 min walk)"
+      },
+      {
+        "order": 3,
+        "title": "Swim and explore around Jeruk Manis"
+      },
+      {
+        "order": 4,
+        "title": "Continue upstream to Ulem Ulem waterfall"
+      },
+      {
+        "order": 5,
+        "title": "Lunch at a local warung near the trailhead"
+      },
+      {
+        "order": 6,
+        "title": "Return to Tetebatu village"
+      }
+    ],
+    "includes": [
+      "Local trekking guide",
+      "Light breakfast and lunch",
+      "Waterfall entrance fees",
+      "Drinking water"
+    ],
+    "excludes": [
+      "Transport to/from Tetebatu",
+      "Trekking shoes",
+      "Tips (optional)"
+    ],
+    "image": "/images/senaru-waterfall.jpg",
+    "featured": true,
+    "active": true,
+    "createdAt": "2026-10-03T00:00:00Z",
+    "updatedAt": "2026-10-03T00:00:00Z"
+  },
+  {
+    "id": "tetebatu-rice-terrace-walk",
+    "slug": "tetebatu-rice-terrace-walk",
+    "name": "Tetebatu Rice Terrace Walk",
+    "duration": "Half Day (3-4 hours)",
+    "price": 200000,
+    "priceLabel": "IDR 200,000 / person (~$13 USD)",
+    "category": "culture",
+    "description": "A gentle morning walk through the rice terraces surrounding Tetebatu village. Your guide explains the Subak irrigation system, points out local crops and medicinal plants, and stops at a tobacco drying barn where farmers prepare their harvest.",
+    "itinerary": [
+      {
+        "order": 1,
+        "title": "Early morning start from Tetebatu (06:30 for best light)"
+      },
+      {
+        "order": 2,
+        "title": "Walk along rice paddy paths with views of Mount Rinjani"
+      },
+      {
+        "order": 3,
+        "title": "Visit a tobacco drying barn and chat with local farmers"
+      },
+      {
+        "order": 4,
+        "title": "Stop at a local coffee garden, try Lombok robusta coffee"
+      },
+      {
+        "order": 5,
+        "title": "Return to starting point"
+      }
+    ],
+    "includes": [
+      "Local guide",
+      "Coffee and snack at garden stop",
+      "Drinking water"
+    ],
+    "excludes": [
+      "Transport to/from Tetebatu",
+      "Personal expenses",
+      "Tips (optional)"
+    ],
+    "image": "/images/hero-lombok.jpg",
+    "featured": true,
+    "active": true,
+    "createdAt": "2026-10-03T00:00:00Z",
+    "updatedAt": "2026-10-03T00:00:00Z"
+  },
+  {
+    "id": "tetebatu-monkey-forest-adventure",
+    "slug": "tetebatu-monkey-forest-adventure",
+    "name": "Monkey Forest & Jungle Walk",
+    "duration": "Half Day (3-4 hours)",
+    "price": 250000,
+    "priceLabel": "IDR 250,000 / person (~$16 USD)",
+    "category": "nature",
+    "description": "Walk through the Tetebatu Monkey Forest where wild long-tailed macaques live in their natural habitat among towering tropical trees. The trail continues through dense jungle and emerges at a small waterfall where you can cool off before heading back.",
+    "itinerary": [
+      {
+        "order": 1,
+        "title": "Meet at the Monkey Forest entrance, safety briefing"
+      },
+      {
+        "order": 2,
+        "title": "Walk through the forest, observe macaque troops in their territory"
+      },
+      {
+        "order": 3,
+        "title": "Continue on the jungle trail deeper into the forest"
+      },
+      {
+        "order": 4,
+        "title": "Reach the small hidden waterfall, swim if you like"
+      },
+      {
+        "order": 5,
+        "title": "Walk back via an alternate route through farmland"
+      }
+    ],
+    "includes": [
+      "Local guide",
+      "Forest entrance fee",
+      "Drinking water and light snack"
+    ],
+    "excludes": [
+      "Transport to/from Tetebatu",
+      "Lunch",
+      "Tips (optional)"
+    ],
+    "image": "/images/mount-rinjani.jpg",
+    "featured": true,
+    "active": true,
+    "createdAt": "2026-10-03T00:00:00Z",
+    "updatedAt": "2026-10-03T00:00:00Z"
+  },
+  {
+    "id": "loyok-bamboo-craft-village",
+    "slug": "loyok-bamboo-craft-village",
+    "name": "Loyok Bamboo Craft Village Tour",
+    "duration": "Half Day (3-4 hours)",
+    "price": 225000,
+    "priceLabel": "IDR 225,000 / person (~$14 USD)",
+    "category": "culture",
+    "description": "Visit Loyok village, famous across Lombok for its bamboo weaving tradition. Watch artisans hand-weave baskets, bags, and furniture from local bamboo. You can try weaving a small piece yourself under their guidance and take it home as a souvenir.",
+    "itinerary": [
+      {
+        "order": 1,
+        "title": "Pickup from Tetebatu (or meet at Loyok village)"
+      },
+      {
+        "order": 2,
+        "title": "Introduction to Loyok's bamboo craft history"
+      },
+      {
+        "order": 3,
+        "title": "Visit three artisan workshops, see different weaving techniques"
+      },
+      {
+        "order": 4,
+        "title": "Hands-on: weave your own small bamboo piece with a local artisan"
+      },
+      {
+        "order": 5,
+        "title": "Browse the village craft market"
+      },
+      {
+        "order": 6,
+        "title": "Return to Tetebatu"
+      }
+    ],
+    "includes": [
+      "Local guide and transport from Tetebatu",
+      "Workshop visits and weaving materials",
+      "Drinks and local snack"
+    ],
+    "excludes": [
+      "Craft purchases at market",
+      "Lunch",
+      "Tips (optional)"
+    ],
+    "image": "/images/sasak-culture.jpg",
+    "featured": false,
+    "active": true,
+    "createdAt": "2026-10-03T00:00:00Z",
+    "updatedAt": "2026-10-03T00:00:00Z"
+  },
+  {
+    "id": "pringgasela-weaving-village",
+    "slug": "pringgasela-weaving-village",
+    "name": "Pringgasela Traditional Weaving Experience",
+    "duration": "Half Day (3-4 hours)",
+    "price": 250000,
+    "priceLabel": "IDR 250,000 / person (~$16 USD)",
+    "category": "culture",
+    "description": "Pringgasela is the center of traditional Sasak hand-weaving in East Lombok. Women in the village still use backstrap looms passed down through generations to create intricate songket and ikat textiles. Spend a morning learning the process from raw thread to finished cloth.",
+    "itinerary": [
+      {
+        "order": 1,
+        "title": "Pickup from Tetebatu (or meet at Pringgasela)"
+      },
+      {
+        "order": 2,
+        "title": "Welcome and introduction to Sasak weaving traditions"
+      },
+      {
+        "order": 3,
+        "title": "Watch weavers at work on backstrap looms"
+      },
+      {
+        "order": 4,
+        "title": "Learn about natural dye preparation from local plants"
+      },
+      {
+        "order": 5,
+        "title": "Try weaving on a loom with guidance from a local weaver"
+      },
+      {
+        "order": 6,
+        "title": "Browse textiles and return to Tetebatu"
+      }
+    ],
+    "includes": [
+      "Local guide and transport from Tetebatu",
+      "Weaving demonstration and hands-on session",
+      "Traditional Sasak snack and drinks"
+    ],
+    "excludes": [
+      "Textile purchases",
+      "Lunch",
+      "Tips (optional)"
+    ],
+    "image": "/images/sasak-culture.jpg",
+    "featured": false,
+    "active": true,
+    "createdAt": "2026-10-03T00:00:00Z",
+    "updatedAt": "2026-10-03T00:00:00Z"
+  },
+  {
+    "id": "tetebatu-full-day-culture-nature",
+    "slug": "tetebatu-full-day-culture-nature",
+    "name": "Tetebatu Full Day: Culture & Nature",
+    "duration": "1 Day",
+    "price": 450000,
+    "priceLabel": "IDR 450,000 / person (~$29 USD)",
+    "category": "nature",
+    "description": "The complete Tetebatu experience in one day. Start with a sunrise rice terrace walk, visit the Monkey Forest, trek to Jeruk Manis waterfall, then drive to Loyok or Pringgasela for a craft village visit in the afternoon. Covers all the highlights of the Tetebatu area.",
+    "itinerary": [
+      {
+        "order": 1,
+        "title": "Early morning rice terrace walk (06:30 start)"
+      },
+      {
+        "order": 2,
+        "title": "Walk through the Monkey Forest"
+      },
+      {
+        "order": 3,
+        "title": "Trek to Jeruk Manis waterfall, swim and rest"
+      },
+      {
+        "order": 4,
+        "title": "Lunch at a local warung in Tetebatu"
+      },
+      {
+        "order": 5,
+        "title": "Drive to Loyok bamboo village or Pringgasela weaving village (your choice)"
+      },
+      {
+        "order": 6,
+        "title": "Workshop visit and craft browsing"
+      },
+      {
+        "order": 7,
+        "title": "Return to Tetebatu by late afternoon"
+      }
+    ],
+    "includes": [
+      "Local guide for the full day",
+      "Transport to Loyok or Pringgasela",
+      "Breakfast snack, lunch, and drinks",
+      "All entrance fees",
+      "Weaving or bamboo craft workshop"
+    ],
+    "excludes": [
+      "Transport to/from Tetebatu",
+      "Craft purchases",
+      "Tips (optional)"
+    ],
+    "image": "/images/hero-lombok.jpg",
+    "featured": true,
+    "active": true,
+    "createdAt": "2026-10-03T00:00:00Z",
+    "updatedAt": "2026-10-03T00:00:00Z"
+  },
+  {
+    "id": "test",
+    "slug": "test",
+    "name": "Test",
+    "description": "tes aja",
+    "price": 20000,
+    "priceLabel": "IDR 20.000 / person",
+    "duration": "1 day",
+    "category": "adventure",
+    "itinerary": [
+      {
+        "order": 1,
+        "title": "Jalan"
+      },
+      {
+        "order": 2,
+        "title": "berenti"
+      },
+      {
+        "order": 3,
+        "title": "balik"
+      }
+    ],
+    "includes": [
+      "topat",
+      "skincare"
+    ],
+    "excludes": [
+      "tips"
+    ],
+    "image": "/uploads/packages/1791015949784-activity-sunset.jpg",
+    "featured": false,
+    "active": true,
+    "createdAt": "2026-10-03T08:25:49.805Z",
+    "updatedAt": "2026-10-03T08:25:49.805Z"
+  }
+]

@@ -1,0 +1,172 @@
+.header {
+  margin-bottom: 32px;
+}
+
+.backLink {
+  display: inline-block;
+  margin-bottom: 16px;
+  font-size: 14px;
+  color: var(--color-text-muted);
+  min-height: 44px;
+  line-height: 44px;
+}
+
+.title {
+  margin-bottom: 12px;
+}
+
+.metaRow {
+  display: flex;
+  gap: 20px;
+  color: var(--color-text-muted);
+  font-size: 15px;
+  flex-wrap: wrap;
+}
+
+.price {
+  font-size: 20px;
+  font-weight: 700;
+  color: var(--color-primary);
+  margin-top: 16px;
+}
+
+.heroImage {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+  border-radius: var(--radius-md);
+  margin-bottom: 40px;
+}
+
+.imagePlaceholder {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  background-color: var(--color-primary-light);
+  border-radius: var(--radius-md);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--color-primary);
+  font-weight: 600;
+  margin-bottom: 40px;
+}
+
+.content {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  gap: 48px;
+  align-items: start;
+}
+
+.description {
+  line-height: 1.7;
+  color: var(--color-text);
+  margin-bottom: 32px;
+}
+
+.subheading {
+  font-size: 18px;
+  font-weight: 700;
+  margin-bottom: 12px;
+  margin-top: 32px;
+}
+
+.subheading:first-of-type {
+  margin-top: 0;
+}
+
+.itineraryList {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.itineraryList li {
+  padding-left: 16px;
+  position: relative;
+  line-height: 1.6;
+}
+
+.itineraryList li::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 10px;
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background-color: var(--color-primary);
+}
+
+.includeList {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.includeList li {
+  padding-left: 20px;
+  position: relative;
+  line-height: 1.5;
+}
+
+.includeList li::before {
+  content: "+";
+  position: absolute;
+  left: 0;
+  color: var(--color-primary);
+  font-weight: 700;
+}
+
+.excludeList {
+  composes: includeList;
+}
+
+.excludeList li::before {
+  content: "−";
+  color: var(--color-text-muted);
+}
+
+.sidebar {
+  position: sticky;
+  top: 88px;
+  background: var(--color-card-bg);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-md);
+  padding: 24px;
+}
+
+.sidebarPrice {
+  font-size: 24px;
+  font-weight: 700;
+  color: var(--color-primary);
+  margin-bottom: 8px;
+}
+
+.sidebarMeta {
+  font-size: 14px;
+  color: var(--color-text-muted);
+  margin-bottom: 24px;
+}
+
+.notFound {
+  text-align: center;
+  padding: 80px 0;
+}
+
+.notFoundTitle {
+  margin-bottom: 16px;
+}
+
+@media (max-width: 768px) {
+  .content {
+    grid-template-columns: 1fr;
+    gap: 32px;
+  }
+
+  .sidebar {
+    position: static;
+  }
+}

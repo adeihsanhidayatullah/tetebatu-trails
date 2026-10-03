@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "caption": "Morning trek through the rice terraces of Tetebatu with Mount Rinjani standing tall behind the green fields.",
+    "location": "Tetebatu, East Lombok",
+    "date": "September 2026",
+    "image": "/images/hero-lombok.jpg"
+  },
+  {
+    "id": 2,
+    "caption": "Refreshing dip at Jeruk Manis waterfall after a 45-minute jungle walk from Tetebatu village.",
+    "location": "Jeruk Manis, Tetebatu",
+    "date": "September 2026",
+    "image": "/images/senaru-waterfall.jpg"
+  },
+  {
+    "id": 3,
+    "caption": "Learning traditional bamboo weaving with an artisan family in Loyok village, a craft that has been passed down for generations.",
+    "location": "Loyok, East Lombok",
+    "date": "August 2026",
+    "image": "/images/sasak-culture.jpg"
+  },
+  {
+    "id": 4,
+    "caption": "Sunset views from the southern coast after a full day exploring the Tetebatu highlands.",
+    "location": "South Lombok",
+    "date": "August 2026",
+    "image": "/images/activity-sunset.jpg"
+  }
+]

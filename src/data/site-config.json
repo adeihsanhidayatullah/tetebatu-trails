@@ -1,0 +1,16 @@
+{
+  "siteName": "Tetebatu Trails",
+  "tagline": "Local guides, real trails",
+  "whatsappNumber": "6281234567890",
+  "whatsappDefaultMessage": "Halo, saya tertarik dengan paket tur dari Tetebatu Trails!",
+  "adminPassword": "admin123",
+  "socialMedia": {
+    "instagram": "https://instagram.com/tetebatu.trails",
+    "facebook": ""
+  },
+  "contact": {
+    "email": "info@tetebatu-trails.com",
+    "phone": "+62 812 3456 7890",
+    "address": "Tetebatu, Lombok Timur, Nusa Tenggara Barat, Indonesia"
+  }
+}
