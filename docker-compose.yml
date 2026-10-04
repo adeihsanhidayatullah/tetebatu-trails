@@ -2,7 +2,7 @@ services:
   web:
     build: .
     ports:
-      - "3000:3000"
+      - "4422:4422"
     volumes:
       - ./src/data:/app/src/data
       - ./public/uploads:/app/public/uploads
