@@ -3,11 +3,15 @@
     "id": "tetebatu-waterfall-trek",
     "slug": "tetebatu-waterfall-trek",
     "name": "Tetebatu Waterfall Trek",
+    "name_id": "Trek Air Terjun Tetebatu",
     "duration": "1 Day",
+    "duration_id": "1 Hari Penuh",
     "price": 350000,
     "priceLabel": "IDR 350,000 / person (~$22 USD)",
+    "priceLabel_id": "Rp 350.000 / orang (~$22 USD)",
     "category": "nature",
     "description": "Trek through the lush jungle trails of Tetebatu to discover two hidden waterfalls: Jeruk Manis and Ulem Ulem. The route follows a river upstream through tropical forest at the southern foot of Mount Rinjani, with natural swimming pools along the way.",
+    "description_id": "Jelajahi jalur setapak rimba tropis Tetebatu untuk menemukan dua air terjun tersembunyi: Jeruk Manis dan Ulem Ulem. Rute ini menyusuri hulu sungai melalui hutan alami di lereng selatan Gunung Rinjani, lengkap dengan kolam pemandian alami sepanjang perjalanan.",
     "itinerary": [
       {
         "order": 1,
@@ -34,16 +38,53 @@
         "title": "Return to Tetebatu village"
       }
     ],
+    "itinerary_id": [
+      {
+        "order": 1,
+        "title": "Kumpul di desa Tetebatu, pengarahan rute dan sarapan ringan"
+      },
+      {
+        "order": 2,
+        "title": "Trek menuju air terjun Jeruk Manis (jalan kaki sekitar 45 menit)"
+      },
+      {
+        "order": 3,
+        "title": "Berenang dan bersantai di sekitar air terjun Jeruk Manis"
+      },
+      {
+        "order": 4,
+        "title": "Melanjutkan perjalanan ke hulu sungai menuju air terjun Ulem Ulem"
+      },
+      {
+        "order": 5,
+        "title": "Makan siang masakan lokal di warung dekat jalur masuk"
+      },
+      {
+        "order": 6,
+        "title": "Kembali ke desa Tetebatu"
+      }
+    ],
     "includes": [
       "Local trekking guide",
       "Light breakfast and lunch",
       "Waterfall entrance fees",
       "Drinking water"
     ],
+    "includes_id": [
+      "Pemandu trekking warga lokal",
+      "Sarapan ringan dan makan siang",
+      "Tiket masuk kawasan air terjun",
+      "Air mineral selama perjalanan"
+    ],
     "excludes": [
       "Transport to/from Tetebatu",
       "Trekking shoes",
       "Tips (optional)"
+    ],
+    "excludes_id": [
+      "Transportasi menuju/dari Tetebatu",
+      "Sepatu trekking pribadi",
+      "Tips sukarela untuk pemandu"
     ],
     "image": "/images/senaru-waterfall.jpg",
     "featured": true,
@@ -55,11 +96,15 @@
     "id": "tetebatu-rice-terrace-walk",
     "slug": "tetebatu-rice-terrace-walk",
     "name": "Tetebatu Rice Terrace Walk",
+    "name_id": "Jelajah Pematang Sawah Tetebatu",
     "duration": "Half Day (3-4 hours)",
+    "duration_id": "Setengah Hari (3-4 jam)",
     "price": 200000,
     "priceLabel": "IDR 200,000 / person (~$13 USD)",
+    "priceLabel_id": "Rp 200.000 / orang (~$13 USD)",
     "category": "culture",
     "description": "A gentle morning walk through the rice terraces surrounding Tetebatu village. Your guide explains the Subak irrigation system, points out local crops and medicinal plants, and stops at a tobacco drying barn where farmers prepare their harvest.",
+    "description_id": "Jalan pagi santai menyusuri pematang terasering sawah hijau di sekeliling desa Tetebatu. Pemandu Anda akan menjelaskan sistem irigasi Subak tradisional, memperkenalkan aneka tanaman obat herbal lokal, dan singgah di lumbung pengeringan tembakau warga.",
     "itinerary": [
       {
         "order": 1,
@@ -82,15 +127,47 @@
         "title": "Return to starting point"
       }
     ],
+    "itinerary_id": [
+      {
+        "order": 1,
+        "title": "Mulai pagi hari dari Tetebatu (06:30 untuk momen cahaya terbaik)"
+      },
+      {
+        "order": 2,
+        "title": "Menyusuri jalur sawah dengan latar megah Gunung Rinjani"
+      },
+      {
+        "order": 3,
+        "title": "Kunjungan ke lumbung tembakau dan berbincang dengan petani lokal"
+      },
+      {
+        "order": 4,
+        "title": "Singgah di kebun kopi lokal dan mencicipi kopi robusta khas Lombok"
+      },
+      {
+        "order": 5,
+        "title": "Kembali ke titik kumpul awal"
+      }
+    ],
     "includes": [
       "Local guide",
       "Coffee and snack at garden stop",
       "Drinking water"
     ],
+    "includes_id": [
+      "Pemandu lokal berpengalaman",
+      "Kopi lokal dan camilan tradisional di kebun",
+      "Air mineral"
+    ],
     "excludes": [
       "Transport to/from Tetebatu",
       "Personal expenses",
       "Tips (optional)"
+    ],
+    "excludes_id": [
+      "Transportasi menuju/dari Tetebatu",
+      "Pengeluaran pribadi",
+      "Tips sukarela"
     ],
     "image": "/images/hero-lombok.jpg",
     "featured": true,
@@ -102,11 +179,15 @@
     "id": "tetebatu-monkey-forest-adventure",
     "slug": "tetebatu-monkey-forest-adventure",
     "name": "Monkey Forest & Jungle Walk",
+    "name_id": "Petualangan Hutan Monyet & Rimba Tropis",
     "duration": "Half Day (3-4 hours)",
+    "duration_id": "Setengah Hari (3-4 jam)",
     "price": 250000,
     "priceLabel": "IDR 250,000 / person (~$16 USD)",
+    "priceLabel_id": "Rp 250.000 / orang (~$16 USD)",
     "category": "nature",
     "description": "Walk through the Tetebatu Monkey Forest where wild long-tailed macaques live in their natural habitat among towering tropical trees. The trail continues through dense jungle and emerges at a small waterfall where you can cool off before heading back.",
+    "description_id": "Menyusuri Hutan Monyet Tetebatu di mana kawanan monyet ekor panjang dan lutung hitam hidup liar di habitat aslinya di bawah pohon-pohon tropis raksasa. Jalur setapak berlanjut menembus rimbunnya hutan dan bermuara di air terjun tersembunyi untuk menyegarkan diri.",
     "itinerary": [
       {
         "order": 1,
@@ -129,15 +210,47 @@
         "title": "Walk back via an alternate route through farmland"
       }
     ],
+    "itinerary_id": [
+      {
+        "order": 1,
+        "title": "Bertemu di pintu masuk Hutan Monyet, pengarahan keselamatan"
+      },
+      {
+        "order": 2,
+        "title": "Menyusuri kawasan hutan, mengamati kawanan monyet di alam liar"
+      },
+      {
+        "order": 3,
+        "title": "Melanjutkan trekking lebih dalam ke vegetasi hutan tropis"
+      },
+      {
+        "order": 4,
+        "title": "Tiba di air terjun alami tersembunyi, waktu santai dan berenang"
+      },
+      {
+        "order": 5,
+        "title": "Berjalan kembali lewat rute alternatif melintasi perkebunan warga"
+      }
+    ],
     "includes": [
       "Local guide",
       "Forest entrance fee",
       "Drinking water and light snack"
     ],
+    "includes_id": [
+      "Pemandu warga lokal",
+      "Tiket masuk kawasan Hutan Monyet",
+      "Air mineral dan camilan ringan"
+    ],
     "excludes": [
       "Transport to/from Tetebatu",
       "Lunch",
       "Tips (optional)"
+    ],
+    "excludes_id": [
+      "Transportasi ke/dari Tetebatu",
+      "Makan siang",
+      "Tips sukarela"
     ],
     "image": "/images/mount-rinjani.jpg",
     "featured": true,
@@ -149,11 +262,15 @@
     "id": "loyok-bamboo-craft-village",
     "slug": "loyok-bamboo-craft-village",
     "name": "Loyok Bamboo Craft Village Tour",
+    "name_id": "Wisata Desa Anyaman Bambu Loyok",
     "duration": "Half Day (3-4 hours)",
+    "duration_id": "Setengah Hari (3-4 jam)",
     "price": 225000,
     "priceLabel": "IDR 225,000 / person (~$14 USD)",
+    "priceLabel_id": "Rp 225.000 / orang (~$14 USD)",
     "category": "culture",
     "description": "Visit Loyok village, famous across Lombok for its bamboo weaving tradition. Watch artisans hand-weave baskets, bags, and furniture from local bamboo. You can try weaving a small piece yourself under their guidance and take it home as a souvenir.",
+    "description_id": "Kunjungi desa Loyok yang melegenda di seluruh Lombok berkat tradisi anyaman bambunya. Saksikan ketelitian para pengrajin menganyam keranjang, tas, dan perabot. Anda bisa langsung mencoba menganyam suvenir bambu kecil didampingi pengrajin untuk dibawa pulang.",
     "itinerary": [
       {
         "order": 1,
@@ -180,15 +297,51 @@
         "title": "Return to Tetebatu"
       }
     ],
+    "itinerary_id": [
+      {
+        "order": 1,
+        "title": "Penjemputan dari Tetebatu (atau bertemu langsung di desa Loyok)"
+      },
+      {
+        "order": 2,
+        "title": "Pengenalan sejarah panjang tradisi anyaman bambu Loyok"
+      },
+      {
+        "order": 3,
+        "title": "Kunjungan ke tiga workshop warga, melihat variasi teknik anyam"
+      },
+      {
+        "order": 4,
+        "title": "Praktik langsung: menganyam suvenir bambu sendiri dipandu warga"
+      },
+      {
+        "order": 5,
+        "title": "Melihat galeri dan pasar kerajinan desa"
+      },
+      {
+        "order": 6,
+        "title": "Perjalanan kembali ke Tetebatu"
+      }
+    ],
     "includes": [
       "Local guide and transport from Tetebatu",
       "Workshop visits and weaving materials",
       "Drinks and local snack"
     ],
+    "includes_id": [
+      "Pemandu lokal dan transportasi dari Tetebatu",
+      "Biaya workshop dan seluruh bahan bambu",
+      "Minuman segar dan jajanan pasar lokal"
+    ],
     "excludes": [
       "Craft purchases at market",
       "Lunch",
       "Tips (optional)"
+    ],
+    "excludes_id": [
+      "Pembelian kerajinan suvenir tambahan",
+      "Makan siang",
+      "Tips sukarela"
     ],
     "image": "/images/sasak-culture.jpg",
     "featured": false,
@@ -200,11 +353,15 @@
     "id": "pringgasela-weaving-village",
     "slug": "pringgasela-weaving-village",
     "name": "Pringgasela Traditional Weaving Experience",
+    "name_id": "Eksplorasi Tenun Tradisional Pringgasela",
     "duration": "Half Day (3-4 hours)",
+    "duration_id": "Setengah Hari (3-4 jam)",
     "price": 250000,
     "priceLabel": "IDR 250,000 / person (~$16 USD)",
+    "priceLabel_id": "Rp 250.000 / orang (~$16 USD)",
     "category": "culture",
     "description": "Pringgasela is the center of traditional Sasak hand-weaving in East Lombok. Women in the village still use backstrap looms passed down through generations to create intricate songket and ikat textiles. Spend a morning learning the process from raw thread to finished cloth.",
+    "description_id": "Pringgasela adalah pusat mahakarya tenun Sasak di Lombok Timur. Para wanita desa masih setia menenun menggunakan alat tradisional kayu (gedogan) warisan leluhur. Pelajari proses lengkap dari pemintalan benang, peracikan warna alami daun dan akar hutan, hingga sehelai kain jadi.",
     "itinerary": [
       {
         "order": 1,
@@ -231,15 +388,51 @@
         "title": "Browse textiles and return to Tetebatu"
       }
     ],
+    "itinerary_id": [
+      {
+        "order": 1,
+        "title": "Penjemputan dari Tetebatu (atau bertemu di desa Pringgasela)"
+      },
+      {
+        "order": 2,
+        "title": "Sambutan hangat dan pengenalan filosofi motif tenun Sasak"
+      },
+      {
+        "order": 3,
+        "title": "Menyaksikan penenun bekerja dengan alat tenun gedogan"
+      },
+      {
+        "order": 4,
+        "title": "Melihat proses pengolahan pewarna alami dari tumbuhan lokal"
+      },
+      {
+        "order": 5,
+        "title": "Mencoba menenun sehelai kain dengan bimbingan penenun desa"
+      },
+      {
+        "order": 6,
+        "title": "Melihat koleksi kain tenun dan kembali ke Tetebatu"
+      }
+    ],
     "includes": [
       "Local guide and transport from Tetebatu",
       "Weaving demonstration and hands-on session",
       "Traditional Sasak snack and drinks"
     ],
+    "includes_id": [
+      "Pemandu lokal dan transportasi dari Tetebatu",
+      "Demonstrasi tenun dan sesi praktik interaktif",
+      "Kue tradisional Sasak dan minuman"
+    ],
     "excludes": [
       "Textile purchases",
       "Lunch",
       "Tips (optional)"
+    ],
+    "excludes_id": [
+      "Pembelian kain tenun",
+      "Makan siang",
+      "Tips sukarela"
     ],
     "image": "/images/sasak-culture.jpg",
     "featured": false,
@@ -251,11 +444,15 @@
     "id": "tetebatu-full-day-culture-nature",
     "slug": "tetebatu-full-day-culture-nature",
     "name": "Tetebatu Full Day: Culture & Nature",
+    "name_id": "Tetebatu Sehari Penuh: Alam & Budaya Sasak",
     "duration": "1 Day",
+    "duration_id": "1 Hari Penuh",
     "price": 450000,
     "priceLabel": "IDR 450,000 / person (~$29 USD)",
+    "priceLabel_id": "Rp 450.000 / orang (~$29 USD)",
     "category": "nature",
     "description": "The complete Tetebatu experience in one day. Start with a sunrise rice terrace walk, visit the Monkey Forest, trek to Jeruk Manis waterfall, then drive to Loyok or Pringgasela for a craft village visit in the afternoon. Covers all the highlights of the Tetebatu area.",
+    "description_id": "Pengalaman terlengkap Tetebatu dalam satu hari. Dimulai dengan jalan pagi saat matahari terbit di pematang sawah, menyusuri Hutan Monyet, trekking ke air terjun Jeruk Manis, dilanjutkan dengan kunjungan budaya ke desa anyaman bambu Loyok atau tenun Pringgasela pada siang harinya.",
     "itinerary": [
       {
         "order": 1,
@@ -286,6 +483,36 @@
         "title": "Return to Tetebatu by late afternoon"
       }
     ],
+    "itinerary_id": [
+      {
+        "order": 1,
+        "title": "Trek sawah berkabut pagi hari (mulai pukul 06:30)"
+      },
+      {
+        "order": 2,
+        "title": "Menyusuri Hutan Monyet dan rimba tropis"
+      },
+      {
+        "order": 3,
+        "title": "Trek ke air terjun Jeruk Manis, berenang dan istirahat"
+      },
+      {
+        "order": 4,
+        "title": "Makan siang masakan khas di warung lokal Tetebatu"
+      },
+      {
+        "order": 5,
+        "title": "Berkendara ke desa bambu Loyok atau desa tenun Pringgasela"
+      },
+      {
+        "order": 6,
+        "title": "Workshop kerajinan tangan dan interaksi dengan pengrajin"
+      },
+      {
+        "order": 7,
+        "title": "Kembali ke Tetebatu menjelang sore hari"
+      }
+    ],
     "includes": [
       "Local guide for the full day",
       "Transport to Loyok or Pringgasela",
@@ -293,10 +520,22 @@
       "All entrance fees",
       "Weaving or bamboo craft workshop"
     ],
+    "includes_id": [
+      "Pemandu lokal berdedikasi satu hari penuh",
+      "Transportasi ke desa Loyok atau Pringgasela",
+      "Sarapan ringan, makan siang, dan minuman",
+      "Semua tiket masuk destinasi",
+      "Workshop anyaman bambu atau tenun ikat"
+    ],
     "excludes": [
       "Transport to/from Tetebatu",
       "Craft purchases",
       "Tips (optional)"
+    ],
+    "excludes_id": [
+      "Transportasi dari/ke luar Tetebatu",
+      "Belanja oleh-oleh kerajinan",
+      "Tips sukarela"
     ],
     "image": "/images/hero-lombok.jpg",
     "featured": true,
@@ -308,10 +547,14 @@
     "id": "test",
     "slug": "test",
     "name": "Test",
+    "name_id": "Tes",
     "description": "tes aja",
+    "description_id": "tes aja",
     "price": 20000,
-    "priceLabel": "IDR 20.000 / person",
+    "priceLabel": "IDR 20,000 / person",
+    "priceLabel_id": "Rp 20.000 / orang",
     "duration": "1 day",
+    "duration_id": "1 hari",
     "category": "adventure",
     "itinerary": [
       {

@@ -1,7 +1,14 @@
-import { generateDefaultWhatsAppLink } from '@/lib/whatsapp';
+'use client';
+
+import { useLanguage } from '@/context/LanguageContext';
 
 export function WhatsAppFloatingButton() {
-  const waLink = generateDefaultWhatsAppLink();
+  const { lang } = useLanguage();
+  const message =
+    lang === 'id'
+      ? 'Halo Tetebatu Trails, saya ingin tanya seputar rute wisata dan paket trekking di Tetebatu!'
+      : 'Hello Tetebatu Trails, I would like to inquire about your guided eco-tours in Tetebatu!';
+  const waLink = `https://wa.me/6281234567890?text=${encodeURIComponent(message)}`;
 
   return (
     <a

@@ -2,29 +2,41 @@
   {
     "id": 1,
     "caption": "Morning trek through the rice terraces of Tetebatu with Mount Rinjani standing tall behind the green fields.",
+    "caption_id": "Trek pagi menyusuri pematang sawah terasering Tetebatu dengan latar megah Gunung Rinjani di kejauhan.",
     "location": "Tetebatu, East Lombok",
+    "location_id": "Tetebatu, Lombok Timur",
     "date": "September 2026",
+    "date_id": "September 2026",
     "image": "/images/hero-lombok.jpg"
   },
   {
     "id": 2,
     "caption": "Refreshing dip at Jeruk Manis waterfall after a 45-minute jungle walk from Tetebatu village.",
+    "caption_id": "Segarnya berenang di air terjun Jeruk Manis setelah 45 menit trekking menembus rimbunnya hutan tropis.",
     "location": "Jeruk Manis, Tetebatu",
+    "location_id": "Jeruk Manis, Tetebatu",
     "date": "September 2026",
+    "date_id": "September 2026",
     "image": "/images/senaru-waterfall.jpg"
   },
   {
     "id": 3,
     "caption": "Learning traditional bamboo weaving with an artisan family in Loyok village, a craft that has been passed down for generations.",
+    "caption_id": "Belajar menganyam bambu tradisional bersama keluarga pengrajin di desa Loyok, warisan turun-temurun lintas generasi.",
     "location": "Loyok, East Lombok",
+    "location_id": "Loyok, Lombok Timur",
     "date": "August 2026",
+    "date_id": "Agustus 2026",
     "image": "/images/sasak-culture.jpg"
   },
   {
     "id": 4,
     "caption": "Sunset views from the southern coast after a full day exploring the Tetebatu highlands.",
+    "caption_id": "Pemandangan matahari terbenam yang syahdu setelah seharian penuh menjelajahi dataran tinggi Tetebatu.",
     "location": "South Lombok",
+    "location_id": "Lombok Selatan",
     "date": "August 2026",
+    "date_id": "Agustus 2026",
     "image": "/images/activity-sunset.jpg"
   }
 ]

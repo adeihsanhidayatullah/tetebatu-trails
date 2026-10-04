@@ -28,6 +28,23 @@ export function getFeaturedPackages() {
   return getActivePackages().filter(p => p.featured);
 }
 
+export function getLocalizedPackage(pkg, lang = 'en') {
+  if (!pkg) return null;
+  if (lang === 'id') {
+    return {
+      ...pkg,
+      name: pkg.name_id || pkg.name,
+      duration: pkg.duration_id || pkg.duration,
+      priceLabel: pkg.priceLabel_id || pkg.priceLabel,
+      description: pkg.description_id || pkg.description,
+      itinerary: pkg.itinerary_id || pkg.itinerary,
+      includes: pkg.includes_id || pkg.includes,
+      excludes: pkg.excludes_id || pkg.excludes,
+    };
+  }
+  return pkg;
+}
+
 export function getPackageBySlug(slug) {
   return getPackages().find(p => p.slug === slug) || null;
 }
